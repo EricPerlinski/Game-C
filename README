@@ -1,0 +1,14 @@
+Projet C de : 
+Valentin GIANNINI
+Eric PERLINSKI
+
+
+Pour la compilation faire : make
+Pour lancer le jeu : ./lance.sh
+Pour lancer la creation d'une map aleatoire + le lancement du jeu : ./lance.sh rand nom_fichier.txt
+( nom_fichier.txt devra etre ajouter dans le fichier maps.txt pour pouvoir jouer dedans )
+( le fichier maps.txt doit contenir les chemins vers les fichiers du dossier map )
+
+Pour creer un paquet deb : ./paquet_deb.sh
+
+

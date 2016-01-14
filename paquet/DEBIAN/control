@@ -1,0 +1,10 @@
+
+Package: jeu
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: liballegro5.0, liballegro-acodec5.0, liballegro-audio5.0, liballegro-image5.0, liballegro-ttf5.0
+Maintainer: Mr Valentin GIANNINI <valentin.giannini@telecomnancy.net> , Mr Eric PERLINSKI <eric.perlinski@telecomnancy.net>
+Description: Petit jeu
+
